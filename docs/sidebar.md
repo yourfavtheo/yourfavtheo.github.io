@@ -1,0 +1,20 @@
+- [Home](/readme.md)
+- [Articles](/articles/readme.md)
+- [Contact](/contact.md)
+- **Social**
+  - [GitHub](https://github.com/itsyourfavhtheo)
+  - [Donation](buymeacoffee.com/yourfavtheo)
+- **Images & Videos**
+  - [Published Images](https://www.redbubble.com/people/VictorNogueira/explore?asc=u&page=1&sortOrder=top%20selling)
+  - [Published Videos](https://www.youtube.com/user/Felladrin/videos)
+  - [Recommended Movies](https://www.imdb.com/user/ur36368230/ratings/?sort=top_rated%2Cdesc&view=grid)
+- **Projects**
+  - [More on GitHub »](https://github.com/felladrin?tab=repositories&q=archived%3Afalse&type=&language=&sort=stargazers)
+- **Music**
+  - [Cat Goric: Escape from the Warp Chamber](https://felladrin.itch.io/cat-goric-escape-from-the-warp-chamber)
+  - [Espolio](https://felladrin.itch.io/espolio)
+  - [Five for Christmas!](https://felladrin.itch.io/five-for-christmas)
+  - [Keysmith’s in a hurry!](https://felladrin.itch.io/keysmiths-in-a-hurry)
+  - [Back Read](https://felladrin.itch.io/back-read)
+  - [Coloblox](https://felladrin.itch.io/coloblox)
+  - [More on Itch.io »](https://felladrin.itch.io/)
