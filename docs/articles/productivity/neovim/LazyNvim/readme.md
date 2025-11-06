@@ -1,0 +1,1 @@
+Like Hyprland, I would to learn how to work with neovim as I saw people using it with macros and I thought that I looked cool. Why not learn it and try to see it takes less times to do it using macros or with mouse and keyboard lol
